@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31b17e07.css",
+    "main.js": "/static/js/main.7cee4d97.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/map-image.png": "/static/media/map-image.3cd6dd9808474f6ed762.png",
+    "static/media/header-bg.jpg": "/static/media/header-bg.050c4ecaaa8ce224a5ca.jpg",
+    "static/media/2.jpg": "/static/media/2.e81bb5241e374738213c.jpg",
+    "static/media/3.jpg": "/static/media/3.b0ffea2abdf2687d38d8.jpg",
+    "static/media/zecco logo.png": "/static/media/zecco logo.0d9950f52091c7869bbd.png",
+    "static/media/1.jpg": "/static/media/1.2fb14c857750c2a3bf5f.jpg",
+    "static/media/6.jpg": "/static/media/6.998ef74039a69a6143ac.jpg",
+    "static/media/4.jpg": "/static/media/4.35152726673752965f58.jpg",
+    "static/media/5.jpg": "/static/media/5.cb53053784f4a5e2434d.jpg",
+    "static/media/microsoft.svg": "/static/media/microsoft.1351b872036d06dc317e6473a02c8cb2.svg",
+    "static/media/google.svg": "/static/media/google.18e374630f64c0a5de2f9039e05cab40.svg",
+    "static/media/facebook.svg": "/static/media/facebook.ad73d91704ace39780f2c217b84d569f.svg",
+    "static/media/ibm.svg": "/static/media/ibm.03f09965c1094fe7a3b1756fe8e36fb2.svg",
+    "index.html": "/index.html",
+    "main.31b17e07.css.map": "/static/css/main.31b17e07.css.map",
+    "main.7cee4d97.js.map": "/static/js/main.7cee4d97.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31b17e07.css",
+    "static/js/main.7cee4d97.js"
+  ]
+}
